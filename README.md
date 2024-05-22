@@ -10,6 +10,7 @@ configured and generate JWT using .NET Core classes.
 store and send a JWT issued by the server using client-side script.
 ***
 
+Features:
 • Build asynchronous Web APIs
 • Invoke Web APIs using Ajax capabilities of the jQuery library
 • Use asynchronous methods of Entity Framework Core
